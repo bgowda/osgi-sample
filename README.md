@@ -1,0 +1,1 @@
+Sample osgi module uses maven scr plugin to generate osgi manifest configuration.
