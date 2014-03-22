@@ -3,6 +3,7 @@ syntax: glob
 target
 
 # Intellij files
+.DS_Store
 .idea
 *.iml
 *.ipr
